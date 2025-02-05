@@ -1,0 +1,10 @@
+# Created on 2025-02-05 18:17:19 (PH Time)
+
+Key: E3CD9EEA967A95CDONG
+
+GetWmiObject : Invalid class "Win32_ComputerSystemProduct"
+At line:1 char:1
++ GetWmiObject Class Win32_ComputerSystemProduct | SelectObject Exp ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidType: (:) [GetWmiObject], ManagementException
+    + FullyQualifiedErrorId : GetWMIManagementException,Microsoft.PowerShell.Commands.GetWmiObjectCommand
