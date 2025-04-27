@@ -1,0 +1,11 @@
+# Created on 2025-04-27 10:10:04 (PH Time)
+
+Key: ACTIVATEME
+
+GetCimInstance : Invalid class 
+At line:1 char:1
++ GetCimInstance Class Win32_ComputerSystemProduct | SelectObject E ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : MetadataError: (root\cimv2:Win32_ComputerSystemProduct:String) [GetCimInstance], CimExc 
+   eption
+    + FullyQualifiedErrorId : HRESULT 0x80041010,Microsoft.Management.Infrastructure.CimCmdlets.GetCimInstanceCommand
